@@ -1,1 +1,6 @@
 D:\DevCraft\VS\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+D:\DevCraft\VS\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.exe
+D:\DevCraft\VS\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.pdb
+D:\DevCraft\VS\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+D:\DevCraft\VS\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.exe
+D:\DevCraft\VS\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.pdb

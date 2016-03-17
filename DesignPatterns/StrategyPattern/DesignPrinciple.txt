@@ -1,0 +1,7 @@
+﻿
+Number 01
+Identify the aspects of your application that vary and separate them from what stay the same 
+
+Number 02 
+Program to an Interface, not an implementation 
+
