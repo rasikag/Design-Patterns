@@ -1,0 +1,1 @@
+D:\DevCraft\VS\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.exe.config
