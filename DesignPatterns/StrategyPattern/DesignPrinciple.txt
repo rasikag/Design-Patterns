@@ -5,3 +5,5 @@ Identify the aspects of your application that vary and separate them from what s
 Number 02 
 Program to an Interface, not an implementation 
 
+Number 03 
+Favor composition over inheritance 
