@@ -1,1 +1,9 @@
 ﻿
+
+Number 01
+The Observer Pattern 
+	one to many dependancy between object so that when one object changes state,
+	all of it's dependants are notified and update automatically.
+
+Number 02
+	Strive for loosely coupled designs between objects that interact 
