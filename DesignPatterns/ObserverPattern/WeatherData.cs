@@ -19,9 +19,13 @@ namespace ObserverPattern
             _observerse = new List<Observer>();
         }
 
-        public void NotifyObserver(Observer O)
+        public void NotifyObserver()
         {
-
+            for (int i = 0; i < _observerse.Count; i++)
+            {
+                Observer Observer = (Observer)_observerse[i];
+                Observer.Update(_temp,_humidity,_pressure);
+            }
         }
 
         public void RegisterObserver(Observer O)
@@ -37,5 +41,20 @@ namespace ObserverPattern
                 _observerse.Remove(O);
             }
         }
+
+        public void MeasurementChange()
+        {
+            NotifyObserver();
+        }
+
+        public void SetMeasurement(float temp , float hum , float pres)
+        {
+            _temp = temp;
+            _pressure = pres;
+            _humidity = hum;
+            MeasurementChange();
+        }
+
+        
     }
 }

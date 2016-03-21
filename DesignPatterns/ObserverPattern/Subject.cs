@@ -10,7 +10,7 @@ namespace ObserverPattern
     {
         void RegisterObserver(Observer O);
         void RemoveObserver(Observer O);
-        void NotifyObserver(Observer O);
+        void NotifyObserver();
 
     }
 }
